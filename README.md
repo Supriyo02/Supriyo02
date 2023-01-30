@@ -1,8 +1,9 @@
+<p align="center"> <img src="https://news.microsoft.com/wp-content/uploads/prod/2016/12/ai-revised2.gif" width="1000" height="500" alt="sayantan"/> </p>
 <h1 align="center">Hi 👋, I'm Supriyo Ghosh</h1>
 <h3 align="center">A passionate AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyo02&label=Profile%20views&color=0e75b6&style=flat" alt="supriyo02" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://www.capgemini.com/pl-pl/wp-content/uploads/sites/15/2019/06/AI-and-ML.gif">
 - 🌱 I’m currently learning **Ml Specialization**
 
 - 💬 Ask me about **React,Frontend,Problem Solving**
@@ -36,5 +37,3 @@
 </div> <br>
 
 ![Supriyo's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Supriyo02&custom_title=Supriyo's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
-
-
