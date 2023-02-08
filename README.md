@@ -1,4 +1,4 @@
-<p align="center"> <img src="[![image](https://user-images.githubusercontent.com/103449235/217542713-cc7fdd9a-3bfe-4d12-9779-407fdc60fc29.png)](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)" width="1000" height="400" alt="sayantan"/> </p>
+<p align="center"> <img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" width="1000" height="400" alt="sayantan"/> </p>
 
 <h1 align="center">Hi 👋, I'm Supriyo Ghosh</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=supriyo02&label=Profile%20views&color=0e75b6&style=flat" alt="supriyo02" /> </p>
