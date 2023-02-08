@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyo02&label=Profile%20views&color=0e75b6&style=flat" alt="supriyo02" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.capgemini.com/pl-pl/wp-content/uploads/sites/15/2019/06/AI-and-ML.gif">
-- 🌱 I’m currently learning **Ml Specialization**
+- 🌱 I’m currently learning **ML Specialization**
 
 - 💬 Ask me about **React,Frontend,Problem Solving**
 
-- 📫 How to reach me **supriyohosh27125@gmail.com**
+- 📫 How to reach me **supriyoghosh27125@gmail.com**
 
 - ⚡ Fun fact **Ambivert**
 
