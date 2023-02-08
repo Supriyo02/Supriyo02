@@ -1,12 +1,12 @@
-<!--<p align="center"> <img src="![image](https://user-images.githubusercontent.com/103449235/217542713-cc7fdd9a-3bfe-4d12-9779-407fdc60fc29.png)" width="1000" height="400" alt="sayantan"/> </p> -->
+<p align="center"> <img src="![image](https://user-images.githubusercontent.com/103449235/217542713-cc7fdd9a-3bfe-4d12-9779-407fdc60fc29.png)" width="1000" height="400" alt="sayantan"/> </p>
 <p align="center"> <img src="![image](https://user-images.githubusercontent.com/103449235/217542713-cc7fdd9a-3bfe-4d12-9779-407fdc60fc29.png)" width="1000" height="400" alt="supriyo"/> </p>
 <h1 align="center">Hi 👋, I'm Supriyo Ghosh</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=supriyo02&label=Profile%20views&color=0e75b6&style=flat" alt="supriyo02" /> </p>
 <h3 align="center">A passionate AI Engineer</h3>
 
 
-<!--<img align="right" alt="Coding" width="300" src="https://www.capgemini.com/pl-pl/wp-content/uploads/sites/15/2019/06/AI-and-ML.gif"> -->
-<img align="right" alt="Coding" width="300" src="[https://www.capgemini.com/pl-pl/wp-content/uploads/sites/15/2019/06/AI-and-ML.gif](https://img.etimg.com/thumb/msid-80227542,width-1200,height-900,imgsize-820943,resizemode-8/20210112_mit-ai_01.jpg)">
+<img align="right" alt="Coding" width="300" src="https://www.capgemini.com/pl-pl/wp-content/uploads/sites/15/2019/06/AI-and-ML.gif"> 
+
 - 🌱 I’m currently learning **ML Specialization**
 
 - 💬 Ask me about **React,Frontend,Problem Solving**
