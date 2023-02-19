@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" width="1000" height="400" alt="sayantan"/> </p>
+<p align="center"> <img src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" width="700" height="250" alt="sayantan"/> </p>
 
 <h1 align="center">Hi 👋, I'm Supriyo Ghosh</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=supriyo02&label=Profile%20views&color=0e75b6&style=flat" alt="supriyo02" /> </p>
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itz_supriyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_supriyo" height="30" width="40" /></a><br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/supriyo-ghosh-2003s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriyo-ghosh-2003s" height="30" width="40" /></a><br>
-<a href="https://fb.com/https://www.facebook.com/supriyo.ghosh.56679015?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/supriyo.ghosh.56679015?mibextid=zbwkwl" height="30" width="40" /></a><br>
-<a href="https://instagram.com/https://instagram.com/_supriyo_07?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_supriyo_07?igshid=zddkntzintm=" height="30" width="40" /></a>
+<a href="https://twitter.com/itz_supriyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_supriyo" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/supriyo-ghosh-2003s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriyo-ghosh-2003s" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://fb.com/https://www.facebook.com/supriyo.ghosh.56679015?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/supriyo.ghosh.56679015?mibextid=zbwkwl" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/https://instagram.com/_supriyo_07?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_supriyo_07?igshid=zddkntzintm=" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +35,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Supriyo02&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
  
  <img src="https://streak-stats.demolab.com?    user=Supriyo02&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
-<img src="https://github-readme-stats-i66v.vercel.app/api?username=Sayantan02&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats-i66v.vercel.app/api?username=Supriyo02&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriyo02&theme=algolia&layout=compact&hide_border=true&bg_color=000000&text_color=0079fa" alt="Supriyo" />
 </div> <br>
 
