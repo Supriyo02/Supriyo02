@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently Intern at Codeclouds.<br>🚀 Ex-Intern at ISRO, Bangalore.<br>🌐 Ask me about React, Next, Node, Mongodb.<br>♨️ Live Project in PHP & MySql.<br>☢️ Experience in ML, Neural Network and Computer vision.<br>💬 Reach me at supriyoghosh27125@gmail.com<br>🏅 Achievements:<br>      > Cognizant DN3.0 Hackathon Finalist.<br>      > Recommended by "The Rocket Woman of India".<br>      > Solved 500+ DSA problems in Leetcode, gfg and Coding Ninjas.<br>      > 3rd in Innovative Idea Presentation.<br>     > 3rd position in Technical Treasurehunt.<br>     > Selected for and Competed s State level debate competition 'Speak For India'.
+🌱 Currently Intern at Codeclouds.<br>🚀 Ex-Intern at ISRO, Bangalore.<br>🌐 Ask me about React, Next, Node, Mongodb.<br>♨️ Live Project in PHP & MySql.<br>☢️ Experience in ML, Neural Network and Computer vision.<br>💬 Reach me at supriyoghosh27125@gmail.com<br>🏅 Achievements:<br>      > Cognizant DN3.0 Hackathon Finalist.<br>      > Recommended by "The Rocket Woman of India".<br>      > Solved 500+ DSA problems in Leetcode, gfg and Coding Ninjas.<br>      > 3rd in Innovative Idea Presentation.<br>     > 3rd position in Technical Treasurehunt.<br>     > Selected for and Competed a State level debate competition 'Speak For India'.
 
 
 ## 🌐 Socials:
